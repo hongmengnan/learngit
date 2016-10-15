@@ -1,2 +1,2 @@
 hello word!!!
-git is free software.
+git is free software GPL.
